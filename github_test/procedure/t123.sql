@@ -1,0 +1,6 @@
+
+  CREATE OR REPLACE PROCEDURE "GITHUB_TEST"."T123" 
+as
+begin
+null;
+end;
